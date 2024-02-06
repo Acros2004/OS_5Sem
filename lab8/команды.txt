@@ -1,0 +1,10 @@
+wmic memorychip get Manufacturer,Capacity,Speed, banklabel
+
+Get-WmiObject -Class "Win32_PhysicalMemory"
+
+systeminfo | findstr "памят"
+
+--6
+pmap -x PID
+objdump -f OS06_06
+sudo cat /proc/pid/maps

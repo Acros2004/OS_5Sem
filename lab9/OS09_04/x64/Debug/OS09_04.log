@@ -1,0 +1,4 @@
+﻿  OS09_04.cpp
+C:\Users\nikit\Desktop\univer\3cource1sem\OC\lab9\OS09_04\OS09_04.cpp(83,66): warning C4244: аргумент: преобразование "LONGLONG" в "DWORD", возможна потеря данных
+C:\Users\nikit\Desktop\univer\3cource1sem\OC\lab9\OS09_04\OS09_04.cpp(112,41): warning C4018: >: несоответствие типов со знаком и без знака
+  OS09_04.vcxproj -> C:\Users\nikit\Desktop\univer\3cource1sem\OC\lab9\x64\Debug\OS09_04.exe
